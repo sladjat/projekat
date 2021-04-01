@@ -1,0 +1,3 @@
+User - agent:
+Disallow: /slike
+Aloow: /slike/cake004.jpg
